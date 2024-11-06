@@ -1,6 +1,6 @@
 ---
 date: 2024-10-27T00:00:00+01:00
-draft: true
+draft: false
 title: "Capacitive Sensor Development Mentee"
 jobTitle: "Capacitive Sensor Development Mentee"
 company: "UBC Blusson Quantum Matter Institute (Blusson QMI)"

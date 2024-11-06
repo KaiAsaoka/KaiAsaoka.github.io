@@ -1,6 +1,6 @@
 ---
 date: 2024-10-29T00:00:00+01:00
-draft: true
+draft: false
 title: "Quantum Communication Researcher Co-op"
 jobTitle: "Quantum Communication Researcher Co-op"
 company: "Nippon Telegraph and Telephone (NTT)"
