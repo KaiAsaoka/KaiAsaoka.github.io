@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on </title>
+    <link>http://localhost:1313/portfolio/</link>
+    <description>Recent content in Portfolios on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Oct 2024 00:00:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quantum Communication Researcher Co-op</title>
+      <link>http://localhost:1313/portfolio/ntt/</link>
+      <pubDate>Tue, 29 Oct 2024 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/portfolio/ntt/</guid>
+      <description>&lt;h3 id=&#34;quantum-communication-researcher-co-op&#34;&gt;Quantum Communication Researcher (Co-op)&lt;/h3&gt;&#xA;&lt;p&gt;• Self-directed optical fiber-based three-photon quantum interference experiments to calculate HOM dip visibility and JSI purity, with the aim of increasing fidelity of time-bin entangled qubits in GHZ state.&lt;/p&gt;&#xA;&lt;p&gt;• Developed automated experimental procedures using self-written Python libraries using PyVISA and PySerial to shorten experiment run time from ~12 hours to ~2 hours by optimizing analysis and data collection processes.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -8,7 +8,7 @@ showcase:
   title: "Hi, I'm Kai Asaoka."
   subtitle: "Welcome to my website!"
   description: >
-    This is Kai Asaoka's personal website. <br /> Access my personal profile <a target='_blank' href='https://kaiasaoka.github.io/experience/'>here</a>. <br /> Access my blog, where I post about my personal interests <a target='_blank' href='https://kaiasaoka.github.io/blog'>here</a>.
+    This is Kai Asaoka's personal website. <br /> Access my personal profile <a target='_blank' href='https://kaiasaoka.github.io/experience/'>here</a>. <br /> Access my blog, where I post about my personal interests <a target='_blank' href='https://kaiasaoka.github.io/blogsite'>here</a>.
   image:
     x: "images/showcase/showcase.png"
     _2x: "images/showcase/showcase@2x.png"

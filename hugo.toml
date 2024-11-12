@@ -37,7 +37,7 @@ theme = "adritian-free-hugo-theme"
 
   [[menu.header]]
   name = "Experience"
-  URL = "#experience"
+  URL = "/experience"
   weight = 4
 
   [[menu.header]]
@@ -61,8 +61,13 @@ theme = "adritian-free-hugo-theme"
   weight = 2
 
   [[menu.footer]]
+  name = "Experience"
+  URL = "/experience"
+  weight = 3
+
+  [[menu.footer]]
   name = "Projects"
-  URL = "#portfolio"
+  URL = "/blog"
   weight = 3
 
   [[menu.footer]]
