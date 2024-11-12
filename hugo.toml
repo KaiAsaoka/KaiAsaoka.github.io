@@ -1,4 +1,4 @@
-baseURL = "https://www.adrianmoreno.info"
+baseURL = "https://kaiasaoka.github.io"
 languageCode = "en-us"
 theme = "adritian-free-hugo-theme"
 
@@ -25,38 +25,43 @@ theme = "adritian-free-hugo-theme"
 # navigation
 [menu]
 
-  [[menu.header]]
-  name = "About"
-  URL = "#about"
-  weight = 2
+#  [[menu.header]]
+#  name = "About"
+#  URL = "#about"
+#  weight = 2
 
   [[menu.header]]
-  name = "Portfolio"
+  name = "Projects"
   URL = "#portfolio"
   weight = 3
 
-#  [[menu.header]]
-#  name = "Experience"
-#  URL = "#experience"
-#  weight = 4
+  [[menu.header]]
+  name = "Experience"
+  URL = "#experience"
+  weight = 4
 
   [[menu.header]]
-  name = "Blog"
+  name = "Projects"
   URL = "/blog"
   weight = 5
 
   [[menu.header]]
-  name = "Contact"
-  URL = "#contact"
+  name = "Blog"
+  URL = "/blogsite"
   weight = 6
 
+  [[menu.header]]
+  name = "Contact"
+  URL = "#contact"
+  weight = 7
+
   [[menu.footer]]
-  name = "About"
+  name = "Home"
   URL = "#about"
   weight = 2
 
   [[menu.footer]]
-  name = "Portfolio"
+  name = "Projects"
   URL = "#portfolio"
   weight = 3
 
