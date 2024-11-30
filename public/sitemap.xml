@@ -17,26 +17,22 @@
     <loc>http://localhost:1313/experience/qmi/</loc>
     <lastmod>2024-10-27T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>http://localhost:1313/projects/my-first-post/</loc>
     <lastmod>2024-10-24T22:30:55+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/my-first-post/</loc>
-    <lastmod>2024-10-24T22:30:55+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/enph253/</loc>
-    <lastmod>2024-08-25T09:53:42+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/enph353/</loc>
-    <lastmod>2024-08-25T09:53:42+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
+    <lastmod>2024-10-24T22:30:55+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects_hp/enph253/</loc>
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project-portfolio/enph253/</loc>
+    <loc>http://localhost:1313/projects_hp/enph353/</loc>
+    <lastmod>2024-08-25T09:53:42+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects_hp/</loc>
+    <lastmod>2024-08-25T09:53:42+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/project-portfolio/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>

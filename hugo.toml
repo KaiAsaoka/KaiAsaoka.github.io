@@ -32,7 +32,7 @@ theme = "adritian-free-hugo-theme"
 
   [[menu.header]]
   name = "Projects"
-  URL = "#portfolio"
+  URL = "#projects"
   weight = 3
 
   [[menu.header]]
@@ -42,7 +42,7 @@ theme = "adritian-free-hugo-theme"
 
   [[menu.header]]
   name = "Projects"
-  URL = "/blog"
+  URL = "/projects"
   weight = 5
 
   [[menu.header]]
@@ -67,7 +67,7 @@ theme = "adritian-free-hugo-theme"
 
   [[menu.footer]]
   name = "Projects"
-  URL = "/blog"
+  URL = "/projects"
   weight = 3
 
   [[menu.footer]]
