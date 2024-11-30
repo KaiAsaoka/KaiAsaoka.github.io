@@ -3,13 +3,13 @@ date: '2024-08-25T09:53:42+02:00' # date in which the content is created - defau
 title: 'Autonomous Robot'
 draft: false # set to "true" if you want to hide the content 
 
-link: "http://localhost:1313/projects/enph253" # optional URL to link the logo to
+link: "/projects/enph253" # optional URL to link the logo to
 
 params:
     button:
         icon: "icon-arrow-right"
         btnText: "Read More"
-        URL: "http://localhost:1313/projects/enph253"
+        URL: "/projects/enph253"
     image:  
         x: "images/works/1695932850780.jpg"
         _2x: "images/works/1695932850780.jpg"
