@@ -423,7 +423,7 @@ legend {
     --yellow: #ffc107;
     --green: #28a745;
     --teal: #20c997;
-    --cyan: #17a2b8;
+    --cyan: #a27eab;
     --white: #fff;
     --gray: #6c757d;
     --gray-dark: #343a40;
@@ -6055,7 +6055,7 @@ button.bg-success:hover {
     background-color: #1e7e34 !important;
 }
 .bg-info {
-    background-color: #17a2b8 !important;
+    background-color: #a27eab !important;
 }
 a.bg-info:focus,
 a.bg-info:hover,
@@ -6145,7 +6145,7 @@ button.bg-dark:hover {
     border-color: #28a745 !important;
 }
 .border-info {
-    border-color: #17a2b8 !important;
+    border-color: #a27eab !important;
 }
 .border-warning {
     border-color: #ffc107 !important;
@@ -9054,7 +9054,7 @@ a.text-success:hover {
     color: #19692c !important;
 }
 .text-info {
-    color: #17a2b8 !important;
+    color: #a27eab !important;
 }
 a.text-info:focus,
 a.text-info:hover {

@@ -11,7 +11,6 @@ duration: "May - December, 2024"
 
 ### Quantum Communication Researcher (Co-op)
 
-• Self-directed optical fiber-based three-photon quantum interference experiments to calculate HOM dip visibility and JSI purity, with the aim of increasing fidelity of time-bin entangled qubits in GHZ state.
-
+• Self-directed optical fiber-based three-photon quantum interference experiments with the aim of increasing fidelity of time-bin entangled qubits in GHZ state.
 
 • Developed automated experimental procedures using self-written Python libraries using PyVISA and PySerial to shorten experiment run time from ~12 hours to ~2 hours by optimizing analysis and data collection processes.

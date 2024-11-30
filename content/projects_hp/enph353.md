@@ -3,13 +3,13 @@ date: '2024-08-25T09:53:42+02:00' # date in which the content is created - defau
 title: 'Machine Learning Competition'
 draft: false # set to "true" if you want to hide the content 
 
-link: "https://github.com/KaiAsaoka/ENPH353" # optional URL to link the logo to
+link: "http://localhost:1313/projects/enph353" # optional URL to link the logo to
 
 params:
     button:
         icon: "icon-arrow-right"
-        btnText: "Case Study"
-        URL: "https://github.com/KaiAsaoka/ENPH353"
+        btnText: "Read More"
+        URL: "http://localhost:1313/projects/enph353"
     image:  
         x: "images/works/353.gif"
         _2x: "images/works/353.gif"
