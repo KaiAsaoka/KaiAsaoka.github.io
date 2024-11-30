@@ -74,7 +74,7 @@ experience:
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
-    URL: "https://github.com/KaiAsaoka/KaiAsaoka.github.io/blob/main/assets/files/KaiAsaokaResume.pdf"
+    URL: "/files/KaiAsaokaResume.pdf"
   button3:
     icon: "icon-arrow-right"
     btnText: "View All"
