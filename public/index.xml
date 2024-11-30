@@ -50,5 +50,12 @@
       <guid>http://localhost:1313/projects/enph353/</guid>
       <description>&lt;p&gt;• Implemented self-driving and image recognition of a simulated vehicle using OpenCV, PyTorch, Keras, TensorFlow, and ROS in Python, as well as Git and Gazebo on Linux, placing fourth out of eighteen teams.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/project-portfolio/enph253/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project-portfolio/enph253/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

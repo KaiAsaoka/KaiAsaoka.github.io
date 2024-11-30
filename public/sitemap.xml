@@ -32,7 +32,11 @@
     <loc>http://localhost:1313/projects/</loc>
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/project-portfolio/enph253/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/project-portfolio/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>
