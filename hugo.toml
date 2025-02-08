@@ -99,3 +99,9 @@ theme = "adritian-free-hugo-theme"
         x = "img/general/design-and-code-radity.png"
         _2x = "img/general/design-and-code-radity@2x.png"
         alt = "Design & Code - Radity"
+        
+# Enable unsafe rendering for Goldmark
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

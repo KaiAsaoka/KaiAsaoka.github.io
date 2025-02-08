@@ -2,41 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kaiasaoka.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-10-29T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://kaiasaoka.github.io/experience/</loc>
+    <loc>http://localhost:1313/experience/</loc>
     <lastmod>2024-10-29T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://kaiasaoka.github.io/experience/ntt/</loc>
+    <loc>http://localhost:1313/experience/ntt/</loc>
     <lastmod>2024-10-29T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://kaiasaoka.github.io/experience/viarail/</loc>
+    <loc>http://localhost:1313/experience/viarail/</loc>
     <lastmod>2024-10-28T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://kaiasaoka.github.io/experience/qmi/</loc>
+    <loc>http://localhost:1313/experience/qmi/</loc>
     <lastmod>2024-10-27T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://kaiasaoka.github.io/projects_hp/enph253_hp/</loc>
+    <loc>http://localhost:1313/projects_hp/enph253_hp/</loc>
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
   </url><url>
-    <loc>https://kaiasaoka.github.io/projects/enph253/</loc>
+    <loc>http://localhost:1313/projects/enph253/</loc>
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
   </url><url>
-    <loc>https://kaiasaoka.github.io/projects/enph353/</loc>
+    <loc>http://localhost:1313/projects/enph353/</loc>
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
   </url><url>
-    <loc>https://kaiasaoka.github.io/projects_hp/enph353_hp/</loc>
+    <loc>http://localhost:1313/projects_hp/enph353_hp/</loc>
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
   </url><url>
-    <loc>https://kaiasaoka.github.io/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
   </url><url>
-    <loc>https://kaiasaoka.github.io/projects_hp/</loc>
+    <loc>http://localhost:1313/projects_hp/</loc>
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
   </url><url>
-    <loc>https://kaiasaoka.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://kaiasaoka.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

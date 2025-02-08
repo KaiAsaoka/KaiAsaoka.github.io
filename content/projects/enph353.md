@@ -13,4 +13,8 @@ The competition portion of this course consisted of programming an algorithm for
 
 My team, consisting of me and Avery Wong, placed fourth out of eighteen teams during this competition, earning the maximum possible points and only being beat out via tiebreaker for completion time.
 
-Read about our experience through our final report, [here](/files/Team16_ENPH353FinalReport.pdf).
+Read about our experience through our final report, [here](/files/team16_enph353finalreport.pdf).
+
+<iframe src="/files/team16_enph353finalreport.pdf" width="100%" height="600px">
+    This browser does not support PDFs. Please download the PDF to view it: <a href="/files/team16_enph353finalreport.pdf">Download PDF</a>.
+</iframe>
