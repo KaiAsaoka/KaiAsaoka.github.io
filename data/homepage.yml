@@ -6,9 +6,9 @@ head:
 showcase:
   enable: true
   title: "Hi, I'm Kai Asaoka."
-  subtitle: "Welcome to my website!"
+  subtitle: "Engineering Physics @ UBC <br /> Controls Software Engineer Intern @ Marathon Fusion"
   description: >
-    This is Kai Asaoka's personal website. <br /> Access my personal profile <a target='_blank' href='https://kaiasaoka.github.io/experience/'>here</a>. <br /> Access my blog, where I post about my personal interests <a target='_blank' href='https://kaiasaoka.github.io/blogsite'>here</a>.
+    I'm an Engineering Physics student at UBC interested in controls systems, hardware-software integration, and deep tech. Currently a Controls Software Engineer Intern at <a target='_blank' href='https://marathonfusion.com'>Marathon Fusion</a> in San Francisco. <br /><br /> Check out my <a target='_blank' href='https://kaiasaoka.github.io/experience/'>experience</a> or read my <a target='_blank' href='https://kaiasaoka.github.io/blogsite'>blog</a>.
   image:
     x: "images/showcase/showcase.png"
     _2x: "images/showcase/showcase@2x.png"
@@ -18,7 +18,7 @@ showcase:
   button:
     icon: "icon-mail-fill"
     btnText: "Contact"
-    URL: "mailto:kaiasaoka@gmail.com"
+    URL: "mailto:kasaoka@student.ubc.ca"
 
   socialLinks:
     - icon: "linkedin"
@@ -58,7 +58,7 @@ education:
   title: "Education"
   items:
     - university: "University of British Columbia"
-      year: "2021-2026"
+      year: "2021-2027"
       degree: "Bachelor of Applied Science (BASc), Engineering Physics"
 
 # experience
@@ -115,14 +115,9 @@ testimonial:
 contact:
   enable: true
   title: "Contact"
-  form:
-    action: "#"
-    full_name: "Full Name"
-    email: "Email Address"
-    message: "Type Your Message Here"
   email:
     title: "Email"
-    email: '<a href="mailto:kaiasaoka@gmail.com">kaiasaoka@gmail.com</a>'
+    email: '<a href="mailto:kasaoka@student.ubc.ca">kasaoka@student.ubc.ca</a>'
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"

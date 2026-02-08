@@ -18,3 +18,9 @@ a:hover {
     color: #442b63;
 }
 
+.rad-showcase h1.display-1 span {
+    font-size: 0.45em;
+    font-weight: 400;
+    opacity: 0.75;
+}
+

@@ -6,8 +6,15 @@
     <description>Recent content in Projects_hps on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Aug 2024 09:53:42 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/projects_hp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inverted Pendulum</title>
+      <link>http://localhost:1313/projects_hp/pendulum_hp/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/projects_hp/pendulum_hp/</guid>
+      <description>&lt;p&gt;Led controls software for self-balancing 2 DOF inverted pendulum, implementing real-time C++ firmware on ESP32 microcontroller with nested PID control algorithm in MATLAB Simulink.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Autonomous Robot</title>
       <link>http://localhost:1313/projects_hp/enph253_hp/</link>

@@ -6,21 +6,35 @@
     <description>Recent content in Experiences on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Oct 2024 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/experience/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Quantum Communication Researcher Co-op</title>
+      <title>Controls Software Engineer Intern</title>
+      <link>http://localhost:1313/experience/marathon/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/marathon/</guid>
+      <description>&lt;h3 id=&#34;controls-software-engineer-intern&#34;&gt;Controls Software Engineer Intern&lt;/h3&gt;&#xA;&lt;p&gt;Starting in January 2026, I joined Marathon Fusion in San Francisco as a Controls Software Engineer Intern. Marathon Fusion develops next-generation fuel cycle technologies for fusion energy, including metal foil pumps and plasma centrifuges for tritium processing.&lt;/p&gt;&#xA;&lt;p&gt;I proposed and implemented a full-stack PVAccess-based Python solution to replace LabVIEW, architecting a backend server, REST API gateway, and front-end UI to overhaul the laboratory&amp;rsquo;s data acquisition and control systems.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Full-Stack Software Developer Intern</title>
+      <link>http://localhost:1313/experience/dwave/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/dwave/</guid>
+      <description>&lt;h3 id=&#34;full-stack-software-developer-intern&#34;&gt;Full-Stack Software Developer Intern&lt;/h3&gt;&#xA;&lt;p&gt;From May to December 2025, I completed an 8-month co-op at D-Wave Quantum Systems in Burnaby, BC, where I worked as a full-stack software developer on cryogenic control systems for quantum computers.&lt;/p&gt;&#xA;&lt;p&gt;I developed a scalable asynchronous Python server for cryogenic fridge control, interfacing with 10+ SCPI and Modbus devices via a REST API to automate test procedures and log telemetry to an InfluxDB time-series database. On the front-end side, I designed 3+ UI applications in Plotly Dash for remote monitoring, real-time data visualization, and control of server operations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Quantum Experimentation Research Intern</title>
       <link>http://localhost:1313/experience/ntt/</link>
       <pubDate>Tue, 29 Oct 2024 00:00:00 +0100</pubDate>
       <guid>http://localhost:1313/experience/ntt/</guid>
-      <description>&lt;h3 id=&#34;quantum-communication-researcher-co-op&#34;&gt;Quantum Communication Researcher (Co-op)&lt;/h3&gt;&#xA;&lt;p&gt;Starting in May of 2024, I participated in an 8-month long Co-op internship at Nippon Telegraph and Telephone Basic Research Laboratories (BRL) in Atsugi, Kanagawa in Japan.&lt;/p&gt;&#xA;&lt;p&gt;As a Quantum Communication Research Intern, I self-directed optical fiber-based three photon quantum interference experiments. The goal of my research was to realize quantum entanglement between multiple users, in an optical fiber-based quantum network.&lt;/p&gt;&#xA;&lt;p&gt;My research was mainly expanding upon my supervisor&amp;rsquo;s previous work, as seen &lt;a href=&#34;https://iopscience.iop.org/article/10.1088/2058-9565/acc7c2/meta&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;quantum-experimentation-research-intern&#34;&gt;Quantum Experimentation Research Intern&lt;/h3&gt;&#xA;&lt;p&gt;Starting in May of 2024, I participated in an 8-month long Co-op internship at Nippon Telegraph and Telephone Basic Research Laboratories (BRL) in Atsugi, Kanagawa in Japan.&lt;/p&gt;&#xA;&lt;p&gt;I self-directed optical fiber-based multi-party quantum communication experiments, with the goal of realizing quantum entanglement between multiple users in an optical fiber-based quantum network. I led experiments improving quantum interference visibility between heralded single photon and weak coherent pulse sources. This work was &lt;a href=&#34;https://doi.org/10.35848/1347-4065/ae35f7&#34;&gt;published in the Japanese Journal of Applied Physics (JJAP)&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Industrial Engineering Co-op</title>
+      <title>Systems Engineer Intern</title>
       <link>http://localhost:1313/experience/viarail/</link>
       <pubDate>Mon, 28 Oct 2024 00:00:00 +0100</pubDate>
       <guid>http://localhost:1313/experience/viarail/</guid>
-      <description>&lt;h3 id=&#34;industrial-engineering-co-op&#34;&gt;Industrial Engineering Co-op&lt;/h3&gt;&#xA;&lt;p&gt;My first Co-op internship was a 4-month long experience at VIA Rail Canada&amp;rsquo;s Vancouver Maintenance Center (VMC) during Spring of 2024. Here, I oversaw the implementation as lead project manager of seven continuous improvement projects. By studying and using various continuous improvement methodologies, such as Kaizen, 5S, Six Sigma, Lean Manufacturing and Visual Management, I was able to successfully improve workplace task completion rate by approximately 10% on average.&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;systems-engineer-intern&#34;&gt;Systems Engineer Intern&lt;/h3&gt;&#xA;&lt;p&gt;My first Co-op internship was a 4-month long experience at VIA Rail Canada&amp;rsquo;s Vancouver Maintenance Center (VMC) during Spring of 2023. Here, I oversaw the implementation as lead project manager of seven continuous improvement projects. By studying and using various continuous improvement methodologies, such as Kaizen, 5S, Six Sigma, Lean Manufacturing and Visual Management, I was able to successfully improve workplace task completion rate by approximately 10% on average.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Capacitive Sensor Development Mentee</title>
