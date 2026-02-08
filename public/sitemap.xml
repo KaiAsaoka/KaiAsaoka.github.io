@@ -3,10 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-10-29T00:00:00+01:00</lastmod>
+    <lastmod>2026-01-01T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/experience/marathon/</loc>
+    <lastmod>2026-01-01T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/experience/</loc>
-    <lastmod>2024-10-29T00:00:00+01:00</lastmod>
+    <lastmod>2026-01-01T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/experience/dwave/</loc>
+    <lastmod>2025-05-01T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects_hp/pendulum_hp/</loc>
+    <lastmod>2025-04-01T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/</loc>
+    <lastmod>2025-04-01T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects_hp/</loc>
+    <lastmod>2025-04-01T00:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/pendulum/</loc>
+    <lastmod>2025-04-01T00:00:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/experience/ntt/</loc>
     <lastmod>2024-10-29T00:00:00+01:00</lastmod>
@@ -27,12 +45,6 @@
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects_hp/enph353_hp/</loc>
-    <lastmod>2024-08-25T09:53:42+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/</loc>
-    <lastmod>2024-08-25T09:53:42+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects_hp/</loc>
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>

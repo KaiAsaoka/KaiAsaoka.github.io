@@ -1,17 +1,17 @@
 ---
 date: 2024-10-28T00:00:00+01:00
 draft: false
-title: "Industrial Engineering Co-op"
-jobTitle: "Industrial Engineering Co-op"
+title: "Systems Engineer Intern"
+jobTitle: "Systems Engineer Intern"
 company: "VIA Rail Canada"
 location: "Vancouver, BC, Canada"
 duration: "Jan - Apr, 2023"
 
 ---
 
-### Industrial Engineering Co-op
+### Systems Engineer Intern
 
-My first Co-op internship was a 4-month long experience at VIA Rail Canada's Vancouver Maintenance Center (VMC) during Spring of 2024. Here, I oversaw the implementation as lead project manager of seven continuous improvement projects. By studying and using various continuous improvement methodologies, such as Kaizen, 5S, Six Sigma, Lean Manufacturing and Visual Management, I was able to successfully improve workplace task completion rate by approximately 10% on average. 
+My first Co-op internship was a 4-month long experience at VIA Rail Canada's Vancouver Maintenance Center (VMC) during Spring of 2023. Here, I oversaw the implementation as lead project manager of seven continuous improvement projects. By studying and using various continuous improvement methodologies, such as Kaizen, 5S, Six Sigma, Lean Manufacturing and Visual Management, I was able to successfully improve workplace task completion rate by approximately 10% on average. 
 
 I lead the development of each project from start to finish. After stakeholder consultation of the staff at VMC, I proposed each project to management after extensive research in both design requirements and specifications and specific stakeholder needs. I provided all necessary technical documentation to management, and after gaining approval, I oversaw the implementation of each project through correspondence with suppliers to procure necessary equipment, and consulting contractors to implement each project. After project implementation, I organized facility-wide training initiatives to ensure that my projects remain in use for the foreseeable future, and to ensure that workplace efficiency remains high.
 

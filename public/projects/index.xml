@@ -6,8 +6,15 @@
     <description>Recent content in Projects on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Aug 2024 09:53:42 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Self-Balancing 2 DOF Inverted Pendulum</title>
+      <link>http://localhost:1313/projects/pendulum/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/projects/pendulum/</guid>
+      <description>&lt;h1 id=&#34;self-balancing-2-dof-inverted-pendulum&#34;&gt;Self-Balancing 2 DOF Inverted Pendulum&lt;/h1&gt;&#xA;&lt;p&gt;This capstone project involved designing and building a self-balancing two degree-of-freedom inverted pendulum from scratch, spanning from September 2024 to April 2025.&lt;/p&gt;&#xA;&lt;p&gt;I led the controls software for the system, implementing real-time C++ firmware on an ESP32 microcontroller with a nested PID control algorithm designed in MATLAB Simulink. The system stabilizes an inverted pendulum that can move in two independent axes, requiring careful tuning of multiple control loops running simultaneously under hard real-time constraints.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Autonomous Robot Competition</title>
       <link>http://localhost:1313/projects/enph253/</link>

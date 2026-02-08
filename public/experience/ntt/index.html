@@ -129,7 +129,7 @@
 
 <section id="breadcrumb-bar" class="breadcrumb-bar container">
         <ul class="breadcrumbs">
-            <li class="breadcrum-item"><span><a href="/">Home</a></span></li><li class="breadcrum-item"><span><a href="/experience">Experience</a></span></li><li class="breadcrum-item current">Quantum Communication Researcher Co-op</li></ul>
+            <li class="breadcrum-item"><span><a href="/">Home</a></span></li><li class="breadcrum-item"><span><a href="/experience">Experience</a></span></li><li class="breadcrum-item current">Quantum Experimentation Research Intern</li></ul>
 </section>
 
 
@@ -143,11 +143,41 @@
             
             
 
+            <div class="experience " >
+              <a href="http://localhost:1313/experience/marathon/">
+                
+                <div class="experience__date">January - May, 2026</div>
+                <div class="experience__title">Controls Software Engineer Intern</div>
+                <div class="experience__company">
+                  Marathon Fusion.
+                  <span class="experience__location"
+                    >San Francisco, CA</span
+                  >
+                </div>
+              </a>
+            </div>
+            
+
+            <div class="experience " >
+              <a href="http://localhost:1313/experience/dwave/">
+                
+                <div class="experience__date">May - December, 2025</div>
+                <div class="experience__title">Full-Stack Software Developer Intern</div>
+                <div class="experience__company">
+                  D-Wave Quantum Systems.
+                  <span class="experience__location"
+                    >Burnaby, BC, Canada</span
+                  >
+                </div>
+              </a>
+            </div>
+            
+
             <div class="experience  selected " >
               <a href="http://localhost:1313/experience/ntt/">
                 
                 <div class="experience__date">May - December, 2024</div>
-                <div class="experience__title">Quantum Communication Researcher Co-op</div>
+                <div class="experience__title">Quantum Experimentation Research Intern</div>
                 <div class="experience__company">
                   Nippon Telegraph and Telephone (NTT).
                   <span class="experience__location"
@@ -162,7 +192,7 @@
               <a href="http://localhost:1313/experience/viarail/">
                 
                 <div class="experience__date">Jan - Apr, 2023</div>
-                <div class="experience__title">Industrial Engineering Co-op</div>
+                <div class="experience__title">Systems Engineer Intern</div>
                 <div class="experience__company">
                   VIA Rail Canada.
                   <span class="experience__location"
@@ -189,31 +219,11 @@
             
           </div>
           <div class="col-12 col-md-7 mt-7 mt-sm-0">
-            <h3 id="quantum-communication-researcher-co-op">Quantum Communication Researcher (Co-op)</h3>
+            <h3 id="quantum-experimentation-research-intern">Quantum Experimentation Research Intern</h3>
 <p>Starting in May of 2024, I participated in an 8-month long Co-op internship at Nippon Telegraph and Telephone Basic Research Laboratories (BRL) in Atsugi, Kanagawa in Japan.</p>
-<p>As a Quantum Communication Research Intern, I self-directed optical fiber-based three photon quantum interference experiments. The goal of my research was to realize quantum entanglement between multiple users, in an optical fiber-based quantum network.</p>
-<p>My research was mainly expanding upon my supervisor&rsquo;s previous work, as seen <a href="https://iopscience.iop.org/article/10.1088/2058-9565/acc7c2/meta">here</a>.</p>
-<h2 id="fundamentals">Fundamentals</h2>
-<p>Our experimental process first starts with generating correlated photon pairs using the Spontaneous Parametric Down Conversion process. By using a 1551.1 nm pulse pump laser, we are able to first use a Periodically Poled Lithium Niobate (PPLN) waveguide to double the frequency of the laser in a non-linear process known as Second Harmonic Generation (SHG).</p>
-<p>$$2\omega_{pump}=\omega_{SHG}$$</p>
-<p>Using these higher frequency, higher energy photons, we produce correlated photon pairs using another PPLN in a non-linear process known as Spontaneous Parametric Down Conversion (SPDC), where the generated photon pair, each referred to as signal and idler, have a relationship shown below:</p>
-<p>$$2\omega_{pump}=\omega_{SHG}=\omega_{signal}+\omega_{idler}$$</p>
-<p>These frequencies are then De-multiplexed using a wavelength division multiplexer and split into individual channels. Coincidences to record correlated photons (SPDC photon pairs generated from the same pump photons) by taking a coincidence histogram, where one channel is used as a trigger to record the $\Delta t$ between the arrival time between coincident photons. As correlated photons are generated from the same pump photon, we should observe a peak in the histogram where we can identify coincidence photons. This peak is referred to as the coincidence peak.</p>
-<p><img src="" alt="coincidence plot"></p>
-<p><img src="" alt="2 photon sys"></p>
-<h2 id="three-photon-interference">Three Photon Interference</h2>
-<p>While three-photon SPDC is possible, we choose a different approach in hopes of improving the generation efficiency of entangled photons. This process can be summarized by the generation of photons identical to the signal SPDC photons by using a splitter at the pump, manually attenuating and demultiplexing the pump photons to be identical to the signal photons generated by the SPDC process. These photons will be referred to as Weak Coherent Pulse photons.</p>
-<p>To recap up to this point, our system looks as follows:</p>
-<p><img src="" alt="3 photon sys"></p>
-<p>We use a $50/50$ beam splitter for quantum interference between WCP and SPDC signal photons. We measure the degree of quantum interference to</p>
-<p>To briefly explain this work, we first have to introduce a fundamental concept in quantum communication: the time-bin qubit.
-A good way of sending qubits over long distances is to use the time-bin qubit. A time-bin qubits are generated by sending photons through Mach-Zehnder interferometers (MZIs), which allow the photon to be in a superposition of two states: an &ldquo;early&rdquo; state and a &ldquo;late&rdquo; state.</p>
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Timebin.jpg" alt="An illustration of a time-bin qubit, where the MZI is shown in black."></p>
-<p>An MZI can be simplified into a circuit where photons which enter have the choice of taking on one of two paths: a short path and a long path. Depending on the path that the photon &ldquo;chooses&rdquo; to take, it may arrive at the output earlier or later. In reality, the photon takes both paths, a phenomenon known as &ldquo;superposition&rdquo;. The two paths can be represented by a probability distribution for the output time of the photon, which should look like a double pulse, where each pulse represents an &ldquo;early&rdquo; and &ldquo;late&rdquo; state.</p>
-<p>Using this property, we are able to generate probability distributions which can be represented as a double pulse. Of course, a single photon can only reside in one of these pulses. However, its position can be represented as a probability distribution as this double pulse, which is a property we utilized for our experiment.</p>
-<p>While I am unable to speak on the specifics of my research topic as the results are not yet public, I can confirm that I completed all research objectives by significantly improving our system through optimizations on filtering and procedure, allowing us to produce quantum-correlated photon pairs more efficiently.</p>
-<p>Many of these improvements were made possible due to my independent work in optimizing experimental procedures, ultimately reducing experimental run time by up to 80%. Where data would have otherwise been painstakingly taken through hand adjustment of experimental parameters, I optimized this procedure by designing automated experimental procedures through Jupyter notebooks, remotely controlling equipment using PyVISA and PySerial to communicate through the RS232 protocol. Where this was not possible, I used NI LabVIEW to supplement my python scripts.</p>
-<p>Through this experience, I gained valuable insight into research procedure and experiment design, in addition to the Japanese work environment. I gained valuable connections to others in the field, and gained an interest in quantum communication and computing.</p>
+<p>I self-directed optical fiber-based multi-party quantum communication experiments, with the goal of realizing quantum entanglement between multiple users in an optical fiber-based quantum network. I led experiments improving quantum interference visibility between heralded single photon and weak coherent pulse sources. This work was <a href="https://doi.org/10.35848/1347-4065/ae35f7">published in the Japanese Journal of Applied Physics (JJAP)</a>.</p>
+<p>I independently optimized experimental procedures, reducing run time by up to 80%. I designed automated experimental procedures through Jupyter notebooks, remotely controlling equipment using PyVISA and PySerial to communicate through the RS232 protocol. Where this was not possible, I used NI LabVIEW to supplement my Python scripts. I also developed data processing and time-to-event sorting algorithms, along with a simulation model predicting optical filtration effects on quantum interference visibility.</p>
+<p>Through this experience, I gained valuable insight into research procedure and experiment design, in addition to the Japanese work environment.</p>
 
           </div>
         </div>
